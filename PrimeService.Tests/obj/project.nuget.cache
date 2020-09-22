@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8wpCcrSmEhTmO1PLvWNTi0cEgQyvPLUVx4QSUWUTEKgYEp4bNdxajYUq1keG/xILRvTUwGmpmaxoQgWLWhOBKw==",
+  "dgSpecHash": "ltz4P91mnzVIUqMcESqlgqk2pYP6rXaACAp2I4EERWUjHa6rIZLDP8kM+IU8v516A+8dyf5P9g1F3wfnX5qZbA==",
   "success": true,
   "projectFilePath": "/Users/takahiro/workspace/cs/unit-testing-using-mstest/PrimeService.Tests/PrimeService.Tests.csproj",
   "expectedPackageFiles": [

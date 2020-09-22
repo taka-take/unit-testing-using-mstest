@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Prime.Services;
 
-namespace PrimeService.Tests
+namespace Prime.Service.Tests
 {
   [TestClass]
   public class PrimeService_IsPrimeShould
